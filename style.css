@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+#message {
+  margin: 20px 0;
+  font-size: 18px;
+  color: navy;
+}
+
+.active {
+  color: crimson;
+  font-weight: bold;
+}
